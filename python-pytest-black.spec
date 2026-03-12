@@ -5,6 +5,7 @@
 Summary:	pytest plugin to enable format checking with black
 Summary(pl.UTF-8):	Wtyczka pytesta do sprawdzania formatowania przy użyciu modułu black
 Name:		python-pytest-black
+# keep 0.3.x here for python2 support
 Version:	0.3.12
 Release:	7
 License:	MIT
